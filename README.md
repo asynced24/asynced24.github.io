@@ -3,7 +3,7 @@
 **M.Eng. Student in Systems & Technology – Automation Smart Systems @ McMaster University | DevOps • Cloud • Machine Learning • IoT**
 
 📫 **How to reach me**  
-- ✉️ async2404@gmail.com  
+- ✉️ aryanssingh4374@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryansingh24)  
 
 ---
