@@ -12,7 +12,7 @@
 - **Cloud & DevOps:** AWS, Azure, Kubernetes, Docker, Terraform, Jenkins  
 - **ML & Data:** TensorFlow, PyTorch, Scikit-Learn, Pandas  
 - **IoT & Embedded:** Raspberry Pi, HuskyLens, PubNub  
-- **Languages & DBs:** Python, JavaScript, C++, SQL  
+- **Languages & DBs:** Python, JavaScript, C++, SQL, Java, Groovy  
 - **Monitoring & Security:** Elastic Stack, Grafana, AWS WAF  
 
 ---
